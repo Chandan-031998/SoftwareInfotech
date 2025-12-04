@@ -282,7 +282,7 @@ export default function Home({ onNavigate }: HomeProps) {
               >
                 Build the
                 <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-700 via-sky-500 to-blue-800">
-                  future of your business
+                  future of your busines
                 </span>
                 with AI &amp; innovation.
               </motion.h1>
